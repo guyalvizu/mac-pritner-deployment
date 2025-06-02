@@ -1,4 +1,4 @@
-# mac-pritner-deployment
+# mac-printer-deployment
 Automated printer deployment for macOS using bash, lpadmin, and local drivers.
 
 ## File Setup
